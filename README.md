@@ -1,6 +1,6 @@
 ## Jets S3 Events Example
 
-This project shows simple S3 event examples with Jets.
+This project shows simple S3 event examples with [Jets](http://rubyonjets.com/).
 
 ## Usage
 
