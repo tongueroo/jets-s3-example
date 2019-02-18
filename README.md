@@ -1,10 +1,10 @@
 ## Jets S3 Events Example
 
-This project shows a simple IoT button example with Jets.
+This project shows simple S3 event examples with Jets.
 
 ## Usage
 
-    git clone https://github.com/tongueroo/jets-iot-button-example demo
+    git clone https://github.com/tongueroo/jets-s3-example demo
     cd demo
     # edit .env with your actual values
     bundle
