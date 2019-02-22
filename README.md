@@ -21,6 +21,6 @@ Next, we'll deploy the app to AWS Lambda with [jets deploy](http://rubyonjets.co
 
 Here's the blog article:
 
-* Blog Post: []()
+* Blog Post: [S3 Events and AWS Lambda with Ruby on Jets](https://blog.boltops.com/2019/02/22/s3-events-and-aws-lambda-with-ruby-on-jets)
 
 If you find Jets interesting, please it a GitHub star [tongueroo/jets](https://github.com/tongueroo/jets). It helps others find out about the project.  I'd appreciate it!
