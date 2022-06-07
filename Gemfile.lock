@@ -143,7 +143,7 @@ GEM
       gems
     jets-html-sanitizer (1.0.4)
       loofah (~> 2.2, >= 2.2.2)
-    jmespath (1.4.0)
+    jmespath (1.6.1)
     kramdown (2.3.0)
       rexml
     loofah (2.6.0)
